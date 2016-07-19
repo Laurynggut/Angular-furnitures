@@ -1,0 +1,43 @@
+[
+{ "id":1,
+"name": "Sillas", 
+"image":"fotosSeccion/sillas/cuerdametal.jpg",
+"description":"Presentamos una gran variedad de materiales; metalicos, orgánicos, reciclados luxury... Queremos hacercarnos a todo tipo de clientes.Ofrecemos exclusividad en diseño y uso.",
+"photos": [
+	"fotosSeccion/sillas/cristal.jpg",
+	"fotosSeccion/sillas/cuerdametalrojo.jpg",
+	"fotosSeccion/sillas/maderaplastico.jpg",
+	"fotosSeccion/sillas/metalcuero.jpg",
+	"fotosSeccion/sillas/metalplastico.jpg",
+	"fotosSeccion/sillas/oficionacuero.jpg"
+]
+},
+{ "id":2,
+"name": "Lamparas", 
+"image":"fotosSeccion/lamparas/maderageo.jpeg",
+"description":"Y se hizo la luz! Una gran variedad de estilos luminosos,que daran brillo a tu habitación.",
+"photos": [
+	"fotosSeccion/lamparas/cristal.jpeg",
+	"fotosSeccion/lamparas/lata.jpeg",
+	"fotosSeccion/lamparas/maderacurva.jpeg",
+	"fotosSeccion/lamparas/metal.jpeg",
+	"fotosSeccion/lamparas/metaltela.jpeg",
+	"fotosSeccion/lamparas/plastico.jpeg"
+]
+},
+{ "id":3,
+"name": "Mesas", 
+"image":"fotosSeccion/mesas/reciclado.jpeg",
+"description":"Lugar de reuniones, una comida, un catering, o simplemente la comida familiar de los domingos!",
+"photos": [
+	"fotosSeccion/mesas/cristal.jpeg",
+	"fotosSeccion/mesas/maderametal.jpeg",
+	"fotosSeccion/mesas/maderaminimalista.jpeg",
+	"fotosSeccion/mesas/maderaredondo.jpeg",
+	"fotosSeccion/mesas/maderavieja.jpg",
+	"fotosSeccion/mesas/trozos.jpeg"
+]
+}
+
+
+]

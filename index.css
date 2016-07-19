@@ -1,0 +1,45 @@
+html{
+	width:100%;
+	height:100%
+}
+#photoLogo{
+	margin-top:20px;
+	margin-bottom:15px;
+	margin-left:20px;
+	margin-right:60px
+}
+
+ul{
+	margin-top:60px;
+	float:right;
+	margin-right:100px
+}
+
+ul :link{
+	text-decoration:none;
+	color:#666
+}
+ul :hover{
+	text-decoration:none !important;
+	color:red
+}
+
+li{font-size:30px;display:inline;margin-right:25px}
+#carouselSides{margin-bottom:5px}
+.mayusculas{text-transform:uppercase}
+#column{margin-top:100px;display:inline;background:#fff;margin-left:70px}
+#fondoCompanies{margin-bottom:100px;max-width:75%;text-align:center !important}
+#companies{background:#fff;margin-left:70px;margin-bottom:20px;margin-top:200px;display:inline;align-content:10px;padding-left:10px}
+#companies h3{text-align:center !important;margin-top:70px;margin-bottom:20px}
+footer{background:#292929;width:100%;height:100%;color:#fff;font-size:12px;padding:0 10px}
+#downText{margin-left:-300px;margin-top:40px;margin-bottom:100px}
+.hi3{color:red}
+.category{max-width:75%}
+.text{text-align:center}
+.col-md-4{text-align:center !important}
+.title h1{text-align:center}
+.title p{text-align:center}
+#user{text-align:center;display:inline !important;width:50px;margin-bottom:150px;margin-top:150px;font-size:20px}
+.box{width:700px;height:130px}
+.picture{max-width:72%;margin-top:100px;margin-bottom:20px}
+/*# sourceMappingURL=index.css.map */

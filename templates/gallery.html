@@ -1,0 +1,14 @@
+<div class="title">
+	
+	<h1>{{category.name}}</h1>
+	<p>{{category.description}}</p>
+</div>
+
+
+    <div  class="container"><!-- container titulo imagenes separadas con textos  -->
+        <div  class="section-title col-sm-4">
+			<div ng-repeat="fotico in category.photos">
+				<img class="picture" ng-src="{{fotico}}">
+				</div>
+		</div>
+	</div>
